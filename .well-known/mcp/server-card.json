@@ -1,0 +1,16 @@
+{
+  "serverInfo": {
+    "name": "METADAX Site MCP",
+    "version": "1.0.0",
+    "description": "Endpoint MCP nativo do site institucional da METADAX (Wix): consulta de informações comerciais, busca no site, agendamentos e início de compra."
+  },
+  "transport": {
+    "type": "streamable-http",
+    "url": "https://www.metadax.com.br/_api/mcp"
+  },
+  "capabilities": {
+    "tools": true,
+    "authentication": "none"
+  },
+  "documentation": "https://dev.wix.com/docs/develop-websites/articles/get-started/about-the-wix-site-mcp"
+}
