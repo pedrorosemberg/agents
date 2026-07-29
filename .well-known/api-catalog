@@ -2,7 +2,11 @@
   "linkset": [
     {
       "anchor": "https://www.metadax.com.br/",
+      "service-desc": [
+        { "href": "https://www.metadax.com.br/_api/mcp" }
+      ],
       "service-doc": [
+        { "href": "https://dev.wix.com/docs/develop-websites/articles/get-started/about-the-wix-site-mcp" },
         { "href": "https://www.metadax.com.br/servicos" }
       ],
       "status": [
