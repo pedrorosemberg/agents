@@ -1,1 +1,22 @@
-
+{
+  "linkset": [
+    {
+      "anchor": "https://www.metadax.com.br/",
+      "service-doc": [
+        { "href": "https://www.metadax.com.br/servicos" }
+      ],
+      "status": [
+        { "href": "https://status.metadax.com.br/" }
+      ]
+    },
+    {
+      "anchor": "https://crm.metadax.com.br/",
+      "service-doc": [
+        { "href": "https://www.metadax.com.br/servicos" }
+      ],
+      "status": [
+        { "href": "https://status.metadax.com.br/" }
+      ]
+    }
+  ]
+}
