@@ -1,0 +1,46 @@
+# METADAX
+
+> METADAX® (METADAX CONSULTORIA LTDA, CNPJ 65.640.808/0001-89) é uma consultoria de marketing e tecnologia em Belo Horizonte (MG), Brasil, que ajuda pequenas e médias empresas com diagnóstico estratégico, CRM, automação de WhatsApp, inteligência artificial aplicada e presença digital (SEO, AEO e GEO). Fundada e dirigida por Pedro Rosemberg.
+
+Site oficial: https://www.metadax.com.br (português), https://www.metadax.com.br/es (espanhol), https://www.metadax.com.br/en (inglês). Domínio internacional: https://www.metadax.co
+Endereço: Avenida Getúlio Vargas, 671, Sala 500, Savassi, Belo Horizonte, MG, CEP 30112-021.
+Contato: https://www.metadax.com.br/faq
+Última atualização deste arquivo: 2026-11-09.
+
+## Autor e fundador
+
+- [Pedro Rosemberg](https://www.metadax.com.br/pedrorosemberg): fundador e diretor executivo da METADAX. Nome completo Pedro Paulo Rosemberg da Silva Oliveira; registro CRA-MG 06-004551/D. Graduado em Marketing, com MBAs em Marketing, Criatividade e Inovação e em Gestão Comercial e Inteligência de Mercado, e pós-graduações em Psicanálise Clínica, Segurança da Informação, Gestão de Riscos e Cibersegurança, Gestão da Tecnologia da Informação e Computação Forense. Autor dos artigos do blog da METADAX.
+- Perfis oficiais: [LinkedIn](https://www.linkedin.com/in/pedrorosemberg/), [Currículo Lattes](http://lattes.cnpq.br/2162940985603250), [ORCID 0000-0002-4947-8174](https://orcid.org/0000-0002-4947-8174), [site pessoal](https://www.pedrorosemberg.com).
+
+## Guias de referência do blog (autor: Pedro Rosemberg)
+
+- [SEO, AEO e GEO: como sua empresa pode ser encontrada no Google e citada por IAs](https://www.metadax.com.br/post/seo-aeo-geo-como-ser-encontrado-no-google-e-citado-por-ias): diferença entre os três conceitos e 7 passos práticos.
+- [Glossário de SEO, AEO e GEO: 22 termos explicados para pequenas empresas](https://www.metadax.com.br/post/glossario-seo-aeo-geo): definições em uma frase de AI Overviews, E-E-A-T, schema, llms.txt, IndexNow e outros.
+- [WhatsApp para vender: como organizar o atendimento e o follow-up](https://www.metadax.com.br/post/whatsapp-para-vender-como-organizar-atendimento-e-follow-up): etiquetas, respostas rápidas, roteiro de follow-up e custos da API oficial.
+- [Automação de WhatsApp: objetivos, benefícios e como medir resultados](https://www.metadax.com.br/post/automação-de-whatsapp-objetivos-benefícios-e-como-medir-resultados)
+- [CRM com IA para pequenas empresas: guia completo](https://www.metadax.com.br/post/gestão-empresarial-com-inteligência-artificial-crm-com-ia-para-pequenas-empresas)
+- [Agentes de IA para empreendedores: aplicações práticas](https://www.metadax.com.br/post/como-empreendedores-estão-usando-agentes-de-ia-personalizados-para-aumentar-sua-receita-em-mais-de-2)
+- [Como medir o ROI de Google Ads e Meta Ads: indicadores essenciais para PMEs](https://www.metadax.com.br/post/como-medir-roi-google-ads-meta-ads-indicadores-essenciais-pmes): CPL, CAC, ROAS e LTV.
+- [LGPD no marketing e no CRM: guia prático para pequenas empresas](https://www.metadax.com.br/post/lgpd-no-marketing-e-crm-guia-pratico-para-pequenas-empresas)
+- [Black Friday 2026 para pequenas empresas: checklist por prazo e o que a lei exige](https://www.metadax.com.br/post/black-friday-2026-checklist-pequenas-empresas)
+- [Hora de contratar uma consultoria de marketing? 8 sinais e o que esperar em 90 dias](https://www.metadax.com.br/post/quando-contratar-consultoria-de-marketing-8-sinais-e-primeiros-90-dias)
+- [Consultoria em marketing: como escolher o melhor parceiro](https://www.metadax.com.br/post/consultoria-em-marketing-como-escolher-o-melhor-parceiro)
+- [Diagnóstico estratégico da METADAX: como funciona o método em 4 etapas](https://www.metadax.com.br/post/diagnostico-estrategico-metadax-metodo-em-4-etapas)
+- [Google Meu Negócio: como aparecer no mapa da sua cidade](https://www.metadax.com.br/post/google-meu-negócio-como-aparecer-no-mapa-da-sua-cidade)
+- [Vulnerabilidades recentes em Python e PHP: como proteger sua PME](https://www.metadax.com.br/post/vulnerabilidades-recentes-em-python-e-php-como-proteger-sua-pme-com-apoio-tecnológico-confiável)
+- [Rede colaborativa de negócios: avaliando benefícios e participação](https://www.metadax.com.br/post/rede-colaborativa-de-negócios-avaliando-benefícios-e-participação)
+
+Índice completo: https://www.metadax.com.br/blog
+
+## Ferramentas gratuitas
+
+- [Auditoria de website](https://www.metadax.co/tools/website-audit)
+- [Pesquisa de domínio](https://www.metadax.co/tools/domain-lookup)
+- [Checagem de e-mail](https://emailcheck.metadax.com.br/)
+
+## Para agentes
+
+- llms.txt nativo do site (com servidor MCP do Wix): https://www.metadax.com.br/llms.txt
+- Catálogo de APIs: https://agents.metadax.com.br/.well-known/api-catalog
+- MCP Server Card: https://agents.metadax.com.br/.well-known/mcp/server-card.json
+- Uso do conteúdo: o robots.txt de metadax.com.br permite acesso de agentes de IA, inclusive para treinamento. Ao citar, atribua a METADAX e o autor indicado em cada artigo.
